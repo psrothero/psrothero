@@ -3,7 +3,7 @@
 <h2>👨‍💻 My projects:</h2>
 
 - <b>SQL</b>
-  - [Analysing Product Demand Using Linear Regression in SQL](https://github.com/psrothero/demand-pricing-analysis-in-sql/)
+  - [Demand Curve Estimation & Revenue Optimization (SQL)](https://github.com/psrothero/demand-pricing-analysis-in-sql/)
 
 <h2> 🤳 Connect with me:</h2>
 
