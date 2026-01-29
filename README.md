@@ -4,6 +4,7 @@
 
 - <b>SQL</b>
   - [Statistical Demand Analysis With SQL](https://github.com/psrothero/demand-pricing-analysis-in-sql/)
+  - [Survey Data Analysis with SQL & Python](https://github.com/psrothero/survey_data_analysis_with_sql_and_python)
 
 <h2> 🤳 Connect with me:</h2>
 
