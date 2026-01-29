@@ -10,7 +10,7 @@
 
 <h2> LinkedIn: <h2> 
 
-  [Paul Rothero](https://www.linkedin.com/in/paul-rothero-500315399/)
+  [Paul Rothero](https://www.linkedin.com/in/paul-rothero)
 
 <h2> Email: <h2>
 
