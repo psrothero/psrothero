@@ -3,6 +3,7 @@
 <h2>👨‍💻 My projects:</h2>
 
 - <b>SQL</b>
+  - [Comparing Snowflake vs Star Schema Performance in DuckDB (SQL)](https://github.com/psrothero/snowflake_vs_star_schema_performance_in_duckdb)
   - [Statistical Demand Analysis With SQL](https://github.com/psrothero/demand-pricing-analysis-in-sql/)
   - [Survey Data Analysis with SQL & Python](https://github.com/psrothero/survey_data_analysis_with_sql_and_python)
 
